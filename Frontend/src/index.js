@@ -11,7 +11,9 @@ import {
 //?Link al tuto   https://www.youtube.com/watch?v=0cSVuySEB0A
 
 //-Installs
-  /*  npx create-react-app frontend
+  /*  npx create-react-app frontend //si colonaron no tienen que poner esto copian index.js, index.html
+  
+      npm install //si clonaron ponen esto
       npm i react-router-dom
   */
 
